@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Adel Hussein,
 ### Full Stack Web Developer
-- 🔭 I’m currently working on Backend and Font Development and Microservices Architecture <br/>
+- 🔭 I’m currently working on Backend and Front Development and Microservices Architecture <br/>
 - 👯 All of my Projects on : https://github.com/adelhussein97?tab=repositories <br/>
 - 💬 Ask me about anything about .Net Core <br/>
 - 📫 How to reach me: adelhussien1579@gmail.com / a.hussien@fcis.bsu.edu.eg <br/>
