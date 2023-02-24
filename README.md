@@ -17,8 +17,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adelhussein97&show_icons=true&locale=en&layout=compact" alt="adelhussein97" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adelhussein97&show_icons=true&locale=en" alt="adelhussein97" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adelhussein97&" alt="adelhussein97" /></p>
 
 
